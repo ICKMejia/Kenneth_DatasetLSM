@@ -1,0 +1,28 @@
+Numero,Nombre,Categoria,Estatica / Dinamica,Unimanuam/Bimanual,Ubicación Inicial,Ubicación Final,Movimiento,Dirección,Rasgos no manuales,Configuracion inicial mano base,Configuracion final mano base,Configuracion inicial mano dominante,Configuracion final mano dominante,Orientacion inicial palma mano base,Orientacion final palma mano base,Orientacion inicial palma mano dominante,Orientacion final palma mano dominante,Orientacion inicial de los dedos mano base,Orientacion final de los dedos mano base,Orientacion inicial de los dedos mano dominante,Orientacion final de los dedos mano dominante 
+1,A,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,A,A,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+2,B,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,B,B,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+3,C,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,C,C,N/A,N/A,Diagonal Adentro Frente ,Diagonal Adentro Frente ,N/A,N/A,Arriba,Arriba
+4,D,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,D,D,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+5,E,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,E,E,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+6,F,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,F,F,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+7,G,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,G,G,N/A,N/A,Atrás,Atrás,N/A,N/A,Adentro,Adentro
+8,H,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,H,H,N/A,N/A,Atrás,Atrás,N/A,N/A,Adentro,Adentro
+9,I,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,I,I,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+10,J,Abecedario,Dinamica,Unimanual,Pecho,Pecho,Medio circulo,Arriba - Abajo,N/A,N/A,N/A,I,I,N/A,N/A,Frente,Adentro,N/A,N/A,Arriba,Arriba
+11,K,Abecedario,Dinamica,Unimanual,Pecho,Pecho,Cuarto de circulo,Frente - Abajo,N/A,N/A,N/A,P,P,N/A,N/A,Frente,Abajo,N/A,N/A,Arriba,Frente
+12,L,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,L,L,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+13,M,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,M,M,N/A,N/A,Atrás,Atrás,N/A,N/A,Abajo,Abajo
+14,N,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,N,N,N/A,N/A,Atrás,Atrás,N/A,N/A,Abajo,Abajo
+15,Ñ,Abecedario,Dinamica,Unimanual,Pecho,Pecho,Medio circulo,Adentro-Afuera,N/A,N/A,N/A,N,N,N/A,N/A,Atrás,Atrás,N/A,N/A,Abajo,Abajo
+16,O,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,O,O,N/A,N/A,Diagonal Adentro Frente ,Diagonal Adentro Frente ,N/A,N/A,Arriba,Arriba
+17,P,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,P,P,N/A,N/A,Abajo,Abajo,N/A,N/A,Diagonal Adentro Frente,Diagonal Adentro Frente
+18,Q,Abecedario,Dinamica,Unimanual,Pecho,Pecho,Cuarto de circulo,Frente-Abajo,N/A,N/A,N/A,Q,Q,N/A,N/A,Frente,Abajo,N/A,N/A,Frente,Diagonal Abajo Frente
+19,R,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,R,R,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+20,S,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,S,S,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+21,T,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,T,T,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+22,U,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,U,U,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+23,V,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,V,V,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+24,W,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,W,W,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
+25,X,Abecedario,Dinamica,Unimanual,Pecho,Pecho,Lineal,Frente- Atrás,N/A,N/A,N/A,X,X,N/A,N/A,Adentro,Adentro,N/A,N/A,Frente,Frente
+26,Y,Abecedario,Estatica,Unimanual,Pecho,Pecho,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Atrás,Atrás,N/A,N/A,Adentro,Adentro
+27,Z,Abecedario,Dinamica,Unimanual,Pecho,Pecho,Zigzag,Arriba - Afuera - Diagonal Adentro Abajo - Afuera,N/A,N/A,N/A,1,1,N/A,N/A,Frente,Frente,N/A,N/A,Arriba,Arriba
